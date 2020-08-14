@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
@@ -6,12 +5,11 @@
 </head>
 
 <body>
-<h1> Portfolio </h1>
 
 <nav>
 <b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
    <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
-   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/"></a>
+   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>
 </b>
 </nav>
 

@@ -8,7 +8,7 @@
 
 <div>
 <h2>Eindray Aye</h2> 
-<p>Austin, Texas <img src="US.png"alt="flag" width = "23" height = "17"> <br/>
+<p>Austin, Texas <img src="US.png"alt="flag" width = "20" height = "14"> <br/>
 eindrayaye@gmail.com 
 </p>
 <br/>

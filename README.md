@@ -9,7 +9,6 @@
 <div>
 <h2>Eindray Aye</h2>
 <p>Austin, Texas<br/>
-512-318-0960<br/>
 eindrayaye@yahoo.co.uk 
 </p>
 <br/>
@@ -87,7 +86,7 @@ I have over 9 years of developer experience working with a highly demanding clie
 <ul>
 <li>2017- Present: South Texas College, Software Development Bachelor of Applied Science – BAS </li>
 <li>2014 – 2017: Austin Community College District, Computer Information Technology Computer Programming - Web Programming Specialization – AAS </li>
-<li>1992 – 1996: Dagon University, Yangon MYANMAR, Zoology - BAS </li>
+<li>Dagon University, Yangon MYANMAR, Zoology - BAS </li>
 </ul>
 </p>
 <br/>

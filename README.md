@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title></title>
 <header></header>
 <meta charset="utf-8"/>
 <link href="CSSMain.css" rel="stylesheet">
@@ -12,7 +11,8 @@
 
 <nav>
 <b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
-      <a href=''https://github.com/eindrayaye">MyGithub</a>
+   <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
+   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>                                        
 </b>
 </nav>
 

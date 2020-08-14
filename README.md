@@ -65,7 +65,7 @@ I have over 9 years of developer experience working with a highly demanding clie
 </p>
 
 <h4>International Travel Consultant, H.I.S Co, Ltd, Tokyo, Japan</h4>
-<p>April 2007 – May 2010</br>
+<p>April 2007 – May 2010<br/>
 <ul>
 <li>Provided professional service to personal, group travelers, and tours. Arranged business and discount air tickets, hotel arrangements, cars arrangement, and visa applications. </li>
 <li>Organized Japan domestic tours and air tickets to non-Japanese travelers using Japanese and English skills.</li>
@@ -73,7 +73,7 @@ I have over 9 years of developer experience working with a highly demanding clie
 </p>
 
 <h4>International and Domestic Travel Consultant, Across Travel, Tokyo, Japan</h4>
-<p>February 2001 – April 2007</br>
+<p>February 2001 – April 2007<br/>
 <ul>
 <li>The professional travel consultant for Japan domestic and international travelers. </li>
 <li>Arranged Air tickets, Cars, Hotels, Visa, and Travel Insurance by request.</li>

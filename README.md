@@ -6,20 +6,20 @@
 
 <body>
 
-<nav>
-<b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
-   <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
-   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>
-</b>
-</nav>
-<br/>
-
 <div>
 <h2>Eindray Aye</h2>
 <p>Austin, Texas<br/>
 512-318-0960<br/>
 eindrayaye@yahoo.co.uk 
 </p>
+<br/>
+   
+<nav>
+<b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
+   <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
+   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>
+</b>
+</nav>
 <br/>
 
 

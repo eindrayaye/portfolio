@@ -17,6 +17,7 @@ eindrayaye@yahoo.co.uk
 <nav>
 <b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
    <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
+   <a href="https://eindrayaye.github.io/portfolio/"> Porfolio</a> &nbsp;
    <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>
 </b>
 </nav>

@@ -7,7 +7,7 @@
 <body>
 
 <div>
-<h2>Eindray Aye</h2> <img src=""alt="flag" width = "371" height = "425">
+<h2>Eindray Aye</h2> 
 <p>Austin, Texas<br/>
 eindrayaye@gmail.com 
 </p>

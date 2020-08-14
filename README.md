@@ -9,12 +9,12 @@
 <div>
 <h2>Eindray Aye</h2>
 <p>Austin, Texas<br/>
-eindrayaye@yahoo.co.uk 
+eindrayaye@gmail.com 
 </p>
 <br/>
    
 <nav>
-<b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; 
+<b><a href="mailto:eindrayaye@gmail.com">Contact</a> &nbsp; 
    <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
    <a href="https://eindrayaye.github.io/portfolio/"> Porfolio</a> &nbsp;
    <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>

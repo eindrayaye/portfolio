@@ -10,7 +10,7 @@
 
 <nav>
 <b><a href="mailto:eindrayaye@yahoo.co.uk">Contact</a> &nbsp; </b>
- <b><a href=''https://github.com/eindrayaye">MyGithub</a></b>
+ <b><a href="https://github.com/eindrayaye/">MyGithub</a></b>
 </nav>
 <br/>
 

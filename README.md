@@ -20,7 +20,7 @@ eindrayaye@yahoo.co.uk
    <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a>
 </b>
 </nav>
-<br/>
+
 
 
 <h3>Overview</h3>
@@ -39,7 +39,6 @@ I am a highly motivated individual with proven ability in the software developme
 <li>Design, code, test, implement, and support production systems daily.</li>
 </ul>
 </p>
-<br/>
 
 <h4>Desktop Support\ Software Developer, BCD Travel, Austin Texas.</h4>
 <p>October 2012 – July 2019<br/>

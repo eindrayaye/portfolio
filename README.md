@@ -25,7 +25,10 @@ eindrayaye@yahoo.co.uk
 
 <h3>Overview</h3>
 <p>
-I am a highly motivated individual with proven ability in the software development space. I am a team-oriented professional with a deep creative mindset, coupled with a can-do attitude. Through my experience I have developed several apps, including reporting tools and meeting management tools using Qik coding, Concur Compleat coding (Visual Basic .Net logic base), HTML Markup language, Sabre Web Services calls, and MySQL database coding skills. I have over 9 years of developer experience working with a highly demanding client and am looking for my next development opportunity.
+I am a highly motivated individual with proven ability in the software development space. 
+I am a team-oriented professional with a deep creative mindset, coupled with a can-do attitude. 
+Through my experience I have developed several apps, including reporting tools and meeting management tools using Qik coding, Concur Compleat coding (Visual Basic .Net logic base), HTML Markup language, Sabre Web Services calls, and MySQL database coding skills. 
+I have over 9 years of developer experience working with a highly demanding client and am looking for my next development opportunity.
 </p>
 <br/>
 

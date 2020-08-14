@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Portfolio</title>
 <header></header>
 <meta charset="utf-8"/>
 <link href="CSSMain.css" rel="stylesheet">

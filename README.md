@@ -17,7 +17,7 @@ eindrayaye@gmail.com
 <b><a href="mailto:eindrayaye@gmail.com">Contact</a> &nbsp; 
    <a href="https://github.com/eindrayaye">MyGithub</a> &nbsp;
    <a href="https://eindrayaye.github.io/portfolio/"> Porfolio</a> &nbsp;
-   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a> 
+   <a href="https://www.linkedin.com/in/eindray-aye-17a20175/">Linkedin</a> &nbsp;
    <a href="certificates.html">Degree & Certificates</a>
 </b>
 </nav>
